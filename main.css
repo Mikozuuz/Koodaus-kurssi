@@ -1,0 +1,16 @@
+
+
+    body {
+        background-color: white;
+        
+    }
+    p {
+        color: black ;
+    }
+    h1 {
+        font-size: 2em;
+    }
+    div {
+        border-radius: 5px; 
+        background-color: brown;
+    }
